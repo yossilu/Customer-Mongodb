@@ -2,9 +2,6 @@
 
 This module lets you perform CRUD operations on a local mongoDB with csv file saved and downloaded.
 
-
-#Usage
- ##Action Routes
  
 
 # Install
